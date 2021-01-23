@@ -19,7 +19,7 @@ Bu uygulama playstation oyun konsolunun gelişimini anlatan bir uygulamadır.
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mrrobotx72/PlaystationSerisi/main/Screens/Screenshot_2021-01-22-14-38-30-815_com.h5190022.mehmet_serif_ugur_final.jpg" height="500" />
+<img src="https://github.com/mrrobotx72/PlaystationSerisi/blob/main/Screens/Screenshot_2021-01-22-14-38-40-077_com.h5190022.mehmet_serif_ugur_final.jpg" height="500" />
 </p>
 
 <p align="center">
